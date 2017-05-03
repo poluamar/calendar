@@ -5,7 +5,7 @@
 
 <html>
   <head>
-    <title>Welcome: Calendar Demo</title>
+    <title>Welcome: Calendar Demo Sapient</title>
     
     <link rel=stylesheet href="css/calendar.css" type="text/css">
     <script language="JavaScript" type="text/javascript" src="javascript/calendar.js"></script>
