@@ -1,0 +1,7 @@
+.HeaderBg {background-color: #AAAAAA; color: #000000}
+
+.SubnavText           {font-family: verdana, arial, helvetica, sans-serif; font-weight: bold; font-size: 10px; color: #000000;}
+.SubnavText A:link    {font-family: verdana, arial, helvetica, sans-serif; font-weight: bold; font-size: 10px; color: #000000; text-decoration: underline;}
+.SubnavText A:active  {font-family: verdana, arial, helvetica, sans-serif; font-weight: bold; font-size: 10px; color: #000000; text-decoration: underline;}
+.SubnavText A:visited {font-family: verdana, arial, helvetica, sans-serif; font-weight: bold; font-size: 10px; color: #000000; text-decoration: underline;}
+.SubnavText A:hover   {font-family: verdana, arial, helvetica, sans-serif; font-weight: bold; font-size: 10px; color: #000000; text-decoration: underline;}
